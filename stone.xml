@@ -1,18 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <project name="mayuresh2543/vendor_xiaomi_stone"
-	  path="vendor/xiaomi/stone"
+	   path="vendor/xiaomi/stone"
            remote="github"
            revision="16.2"
            clone-depth="1" />
   <project name="mayuresh2543/kernel_xiaomi_stone_rebase"
-	  path="kernel/xiaomi/stone"
+	   path="kernel/xiaomi/stone"
            remote="github"
            revision="16.2"
            clone-depth="1" />
   <project name="mayuresh2543/device_xiaomi_stone_new"
-	  path="device/xiaomi/stone"
+	   path="device/xiaomi/stone"
            remote="github"
            revision="16.2"
            clone-depth="1" />
+  <project name="LineageOS/android_hardware_xiaomi"
+	   path="hardware/xiaomi"
+	   remote="github"
+	   revision="lineage-23.2"
+	   clone-depth="1" />
 </manifest>
